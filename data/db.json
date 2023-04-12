@@ -1,22 +1,28 @@
 {
-    "blogs": [
-      {
-        "title": "My first blog",
-        "body": "Some plenty words",
-        "author": "Mario",
-        "id": 1
-      },
-      {
-        "title": "Sausage party",
-        "body": "Some plenty words",
-        "author": "Luigi",
-        "id": 2
-      },
-      {
-        "title": "Some new blog",
-        "body": "Some new blog's body",
-        "author": "yoshi",
-        "id": 3
-      }
-    ]
-  }
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Some plenty words",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Sausage party",
+      "body": "Some plenty words",
+      "author": "Luigi",
+      "id": 2
+    },
+    {
+      "title": "Some new blog",
+      "body": "Some new blog's body",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "Blog Test",
+      "body": "Some blog data here wouldn't be bad",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
+}
